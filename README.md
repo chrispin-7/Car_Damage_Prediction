@@ -6,7 +6,7 @@ This project uses deep learning to detect and classify car damage from images. I
 
 ## 📸 Demo
 
-![App Screenshot]([https://user](https://github.com/chrispin-7/Car_Damage_Prediction/blob/main/model.png))  
+![App Screenshot](https://github.com/chrispin-7/Car_Damage_Prediction/blob/main/model.png))  
 
 ---
 
