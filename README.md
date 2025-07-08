@@ -23,3 +23,4 @@ This project uses deep learning to detect and classify car damage from images. I
 
 ## 🗂️ Project Structure
 
+This app detects and classifies car damage using deep learning. It combines YOLOv8 for object detection and ResNet18 for damage classification, offering instant predictions through an interactive Streamlit interface. Ideal for insurance, inspections, or fleet assessment.
